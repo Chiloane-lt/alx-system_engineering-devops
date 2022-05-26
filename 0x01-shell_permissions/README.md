@@ -1,4 +1,4 @@
-#0x01-shell_permissions Project 
+# 0x01-shell_permissions Project 
 
 This folder contains scripts which were created for the project. 
 
