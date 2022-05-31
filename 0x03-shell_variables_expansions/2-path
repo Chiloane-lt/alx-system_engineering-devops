@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '\action' >> .bash_profile
+PATH=$PATH:/action
