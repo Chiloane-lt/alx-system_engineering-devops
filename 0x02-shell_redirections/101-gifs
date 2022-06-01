@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "*.gif" -o -name ".*" | ls -lSa --format=single-column | sed 's/\.[a-z]*//g' 
+find -type f -name "*.gif" -o -name ".*" | ls -lSa --format=single-column | cut -d '.' -f 1
