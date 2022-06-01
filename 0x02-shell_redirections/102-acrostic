@@ -1,2 +1,2 @@
 #!/bin/bash
-gut -c 1- | paste -s | tr -d "[:blank:]"
+cut -b 1
